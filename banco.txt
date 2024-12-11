@@ -1,0 +1,77 @@
+Tipo de cliente: 1
+Nome do cliente: LUCAS
+CPF: 111
+Telefone: 111
+Cidade: 111
+Bairro: 111
+Rua: 11
+Número: 11
+Opção escolhida: 2
+Nome do cliente: LUCAS
+Tipo de conta: 2
+Opção escolhida: 0
+Opção escolhida: 1
+Tipo de cliente: 1
+Nome do cliente: lucas
+CPF: 111
+Telefone: 222
+Cidade: 22
+Bairro: 33
+Rua: 44
+Número: 55
+Opção escolhida: 2
+Nome do cliente: lucas
+Tipo de conta: 2
+Opção escolhida: 0
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Opção escolhida: 4
+Opção escolhida: 1
+Tipo de cliente: 1
+Nome do cliente: sara
+CPF: 111
+Telefone: 11
+Cidade: 11
+Bairro: 22
+Rua: 33
+Número: 33
+Opção escolhida: 0
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Opção escolhida: 4
+Opção escolhida: 1
+Tipo de cliente: 1
+Nome do cliente: LUCAS
+CPF: 111
+Telefone: 22
+Cidade: 33
+Bairro: 44
+Rua: 55
+Número: 66
+Opção escolhida: 3
+Número da conta: LUCAS
+Tipo de transação: 1
+Valor do depósito: 8999.0
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = SARA, titular = SARA, saldo = 900.0, status = Ativa
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = SARA, titular = SARA, saldo = 900.0, status = Ativa
+Conta numeroConta = LUCAS, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = SARA, titular = SARA, saldo = 900.0, status = Ativa
+Conta numeroConta = LUCAS, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = LUCAS, titular = Lucas, saldo = 0.0, status = Ativa
+Opção escolhida: 1
+Tipo de cliente: 1
+Nome do cliente: ucas
+CPF: 111
+Telefone: 222
+Cidade: 333
+Bairro: 444
+Rua: 555
+Número: 666
+Opção escolhida: 2
+Nome do cliente: ucas
+Tipo de conta: 2
+Opção escolhida: 0
+Opção escolhida: 1
+Conta numeroConta = lucas, titular = Lucas, saldo = 0.0, status = Ativa
+Conta numeroConta = ucas, titular = ucas, saldo = 0.0, status = Ativa
